@@ -5,3 +5,4 @@ rfgggdjhqgo
 
 qqchose pour créer un conflit
 un truc dans ce fichier
+on modifie le fichier
