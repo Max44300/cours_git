@@ -4,3 +4,4 @@ il est important de lire le readme
 rfgggdjhqgo
 
 qqchose pour créer un conflit
+un truc dans ce fichier
