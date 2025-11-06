@@ -7,3 +7,4 @@ qqchose pour créer un conflit
 un truc dans ce fichier
 on modifie le fichier
 un petittruc en plus
+on ecris ddes trucs pour les pull
